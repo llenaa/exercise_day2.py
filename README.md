@@ -1,1 +1,0 @@
-# exercise_day2.py
